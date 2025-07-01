@@ -9,8 +9,8 @@ I’m a data enthusiast with a solid foundation in analysis, visualization, and 
 ### 🧑💻 About Me
 - 🎓 **Currently Studying**: Bachelor of Software Engineering at the University of Doha for Science and Technology.
 - 🛠️ **Co-Founder** of Illumination Initiative, funded by the **US Embassy**, providing over **60** hours of tech training to **50+** youth in Gaza.
+- - 🌍 **Current Projects**: Building analytical tools and automating processes using **Python**, **SQL**, **Excel** and **Power BI**.
 - 💡 **Passionate about**: Data Analysis, Automation, and Building Data-Driven Solutions, currently expanding into **Data Science** for a more technical perspective.
-- 🌍 **Current Projects**: Building analytical tools and automating processes using **Python**, **SQL**, **Excel** and **Power BI**.
 
 ---
 
