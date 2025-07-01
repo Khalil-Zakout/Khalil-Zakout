@@ -2,21 +2,21 @@
 
 <h2 align="center"> 🚀 Aspiring Data Analyst | Python Developer | Software Engineering Student</h2>
 
-Welcome to my GitHub! I’m a passionate data enthusiast with a solid foundation in programming, data analysis, and visualization. My projects focus on leveraging data to solve real-world problems and make insightful, data-driven decisions.
+I’m a data enthusiast with a solid foundation in analysis, visualization, and automation. I focus on solving real-world problems with data and am currently expanding into data science and data engineering to build more robust, technical solutions.
 
 ---
 
 ### 🧑💻 About Me
 - 🎓 **Currently Studying**: Bachelor of Software Engineering at the University of Doha for Science and Technology.
 - 🛠️ **Co-Founder** of Illumination Initiative, funded by the **US Embassy**, providing over **60** hours of tech training to **50+** youth in Gaza.
-- 💡 **Passionate about**: Data Analysis, Automation, and Building Data-Driven Solutions.
+- 💡 **Passionate about**: Data Analysis, Automation, and Building Data-Driven Solutions, currently expanding into **Data Science** for a more technical perspective.
 - 🌍 **Current Projects**: Building analytical tools and automating processes using **Python**, **SQL**, **Excel** and **Power BI**.
 
 ---
 
 ### 🛠️ Skills
-- **Programming Languages**: Python (Pandas, Selenium, Matplotlib, Openpyxl)
-- **Data Analysis & Visualization**: Power BI, Excel, Tableau
+- **Programming Languages**: Python (Pandas, Selenium, Matplotlib, Seaborn, Openpyxl)
+- **Data Analysis & Visualization**: Power BI, Excel
 - **Databases**: SQL (PostgreSQL, SQLite)
 - **Other Skills**: API Integration, Data Scraping, Automation, Git
 
