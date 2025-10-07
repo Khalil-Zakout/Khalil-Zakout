@@ -2,7 +2,7 @@
 
 <h2 align="center"> 🚀 Aspiring Data Engineer | Python Developer | Software Engineering Student</h2>
 
-I’m a data enthusiast focused on building scalable **Data Pipelines**, **Automated Workflows**, and **Cloud-Based Solutions**. I specialize in designing and deploying robust end-to-end pipelines using **Python**, **SQL**, **Google Cloud**, and **GCP Composer (Airflow)**, while also leveraging **Excel** and **Power BI** for **Data Analysis** and visualization to generate actionable insights in real-world **Data Engineering** projects.
+I’m a data enthusiast focused on building scalable **Data Pipelines**, **Automated Workflows**, and **Cloud-Based Solutions**. I specialize in designing and deploying robust end-to-end pipelines using **`Python`**, **`SQL`**, **`Google Cloud`**, and **`GCP Composer (Airflow)`**, while also leveraging **`Excel`** and **`Power BI`** for **Data Analysis** and visualization to generate actionable insights in real-world **Data Engineering** projects.
 
 ---
 
