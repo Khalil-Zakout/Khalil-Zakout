@@ -2,15 +2,15 @@
 
 <h2 align="center"> 🚀 Aspiring Data Engineer | Python Developer | Software Engineering Student</h2>
 
-I’m a data enthusiast with a solid foundation in analysis, visualization, and automation. I focus on solving real-world problems with data and am currently expanding into data science and data engineering to build more robust, technical solutions.
+I’m a data enthusiast focused on building scalable **Data Pipelines**, **Automated Workflows**, and **Cloud-Based Solutions**. I specialize in designing and deploying robust end-to-end pipelines using **Python**, **SQL**, **Google Cloud**, and **GCP Composer (Airflow)**, while also leveraging **Excel** and **Power BI** for **Data Analysis** and visualization to generate actionable insights in real-world **Data Engineering** projects.
 
 ---
 
 ### 🧑💻 About Me
 - 🎓 **Currently Studying**: Bachelor of Software Engineering at the University of Doha for Science and Technology.
+- 🌍 **Current Focus**: Building scalable data pipelines and automated workflows using **Python**, **SQL**, **Airflow**, and **Google Cloud**.
 - 🛠️ **Co-Founder** of Illumination Initiative, funded by the **US Embassy**, providing over **60** hours of tech training to **50+** youth in Gaza.
-- 🌍 **Current Focus**: Building scalable data pipelines and automated workflows using **Python**, **SQL**, **Airflow**, **Google Cloud**, **GCP Composer**, **Excel**, and **Power BI**.
-- 🚀 Aiming To: Grow as a **data engineer**, mastering cloud data platforms, orchestration tools, and advanced data processing to support robust, enterprise-level solutions.
+- 🚀 Aiming To: Grow as a **data engineer**, mastering cloud data platforms, orchestration tools, and advanced data processing.
 
 ---
 
@@ -19,10 +19,13 @@ I’m a data enthusiast with a solid foundation in analysis, visualization, and 
 - **Data Engineering & Analysis**: Airflow, Google Cloud, GCP Composer, BigQuery, Power BI, Excel
 - **Databases & SQL**: PostgreSQL, SQLite, SQL optimization & queries
 - **Other Skills**: API Integration, Data Scraping, Automation, Git, Workflow Orchestration
-
 ---
 
 ### 🌟 Featured Projects
+- **[YouTube Trending Data Pipeline](https://github.com/Khalil-Zakout/YouTube-Trending-Data-Pipeline)**
+  - Built a scalable ETL pipeline using Python, Airflow (Cloud Composer), GCP Cloud Storage, and BigQuery to fetch and store daily trending YouTube videos across multiple regions.
+  - Automated daily data ingestion, aggregation of analytics metrics, and weekly email reporting of top categories and engagement.
+  - Demonstrates cloud-based data engineering, workflow orchestration, and analytics automation.
 
 - **[Fantasy Premier League (FPL) Analysis Tool](https://github.com/Khalil-Zakout/FPL-Scraper)**
   - Scraped performance data for 500+ players using Python, created a scoring algorithm, and visualized player stats with Matplotlib.
